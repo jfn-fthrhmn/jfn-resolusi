@@ -3,6 +3,9 @@ Rencana Web Baru
 * dengan CI bulan ini*
 - gis kantor
 * dengan CI agustus*
-- dagang 
+
 - belajar phyton
+  ^Chanel lain
+  ^belajar dari awal
+  ^framework phyton
 - publish
