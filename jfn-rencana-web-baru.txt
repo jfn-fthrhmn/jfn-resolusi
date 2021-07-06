@@ -1,0 +1,7 @@
+Rencana Web Baru
+- membuat Post dagang
+* dengan CI bulan ini*
+- gis kantor
+* dengan CI agustus*
+- dagang 
+- publish
