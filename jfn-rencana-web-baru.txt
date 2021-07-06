@@ -5,4 +5,7 @@ Rencana Web Baru
 * dengan CI agustus*
 - dagang 
 - belajar phyton
+  ^Chanel WPU
+  ^Belajar dari awal
+  ^Framework phyton
 - publish
