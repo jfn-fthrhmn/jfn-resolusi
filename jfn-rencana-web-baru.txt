@@ -3,7 +3,6 @@ Rencana Web Baru
 * dengan CI bulan ini*
 - gis kantor
 * dengan CI agustus*
-- dagang 
 - belajar phyton
   ^Chanel WPU
   ^Belajar dari awal
