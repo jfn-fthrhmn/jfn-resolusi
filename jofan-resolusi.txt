@@ -1,0 +1,6 @@
+Resolusi
+-HTMLL
+-CSS
+-BOSSTRAP
+-PHP
+-Codeignitier
